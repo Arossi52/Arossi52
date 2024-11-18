@@ -25,7 +25,10 @@ My passion for technology and problem solving has led me cybersecurity, and I am
 ## Certifications
 
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="http://verify.CompTIA.org?code=NXFF5X5ZHBFQQ83E" target="_blank">
+    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</a>
+
 
 ## Projects
 - Detection Lab
