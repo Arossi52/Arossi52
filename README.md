@@ -18,7 +18,8 @@ My passion for technology and problem solving has led me cybersecurity, and I am
 | Incident Response Planning and Execution        | <a href="https://github.com/Arossi52/SOC-Analyst-Lab/tree/main">SOC Analyst Lab</a>|
 | Case Management with TheHive                  | <a href="https://github.com/Arossi52/SOC-Analyst-Lab/tree/main">SOC Analyst Lab</a>|
 | Scripting and Automation for Threat Mitigation  | <a href="https://github.com/Arossi52/SOC-Analyst-Lab/tree/main">SOC Analyst Lab</a>|
-
+| SIEM Implementation and Log Analysis          | Elastic Lab|
+| Network Traffic Monitoring and Attack Detection | Elastic Lab|
 
 ## Certifications
 
@@ -30,3 +31,4 @@ My passion for technology and problem solving has led me cybersecurity, and I am
 
 ## Projects
 - <a href="https://github.com/Arossi52/SOC-Analyst-Lab/tree/main">SOC Analyst Lab</a>|
+-Elastic Lab
