@@ -12,13 +12,12 @@ My passion for technology and problem solving has led me cybersecurity, and I am
 ## Skills
 
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-
-| Security Automation with Shuffle SOAR         | [SOC Automation Lab](https://github.com/Arossi52/SOC-Analyst-Lab/tree/main)|
-| Incident Response Planning and Execution      | [SOC Automation Lab](https://github.com/Arossi52/SOC-Analyst-Lab/tree/main)|
-| Case Management with TheHive                  | [SOC Automation Lab](https://github.com/Arossi52/SOC-Analyst-Lab/tree/main)|
-| Scripting and Automation for Threat Mitigation | [SOC Automation Lab](https://github.com/Arossi52/SOC-Analyst-Lab/tree/main)|
+| Skill                                           | Associated Project         |
+|-------------------------------------------------|----------------------------|
+| Security Automation with Shuffle SOAR         | <a href="https://github.com/Arossi52/SOC-Analyst-Lab/tree/main">SOC Analyst Lab</a>|
+| Incident Response Planning and Execution        | <a href="https://github.com/Arossi52/SOC-Analyst-Lab/tree/main">SOC Analyst Lab</a>|
+| Case Management with TheHive                  | <a href="https://github.com/Arossi52/SOC-Analyst-Lab/tree/main">SOC Analyst Lab</a>|
+| Scripting and Automation for Threat Mitigation  | <a href="https://github.com/Arossi52/SOC-Analyst-Lab/tree/main">SOC Analyst Lab</a>|
 
 
 ## Certifications
@@ -30,4 +29,4 @@ My passion for technology and problem solving has led me cybersecurity, and I am
 
 
 ## Projects
-- [SOC Automation Lab](https://github.com/Arossi52/SOC-Analyst-Lab/tree/main)
+- <a href="https://github.com/Arossi52/SOC-Analyst-Lab/tree/main">SOC Analyst Lab</a>|
