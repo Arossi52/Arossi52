@@ -31,4 +31,4 @@ My passion for technology and problem solving has led me cybersecurity, and I am
 
 ## Projects
 - <a href="https://github.com/Arossi52/SOC-Analyst-Lab/tree/main">SOC Analyst Lab</a>|
--Elastic Lab
+- Elastic Lab
