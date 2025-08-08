@@ -3,11 +3,11 @@
 
 
 
-I am a recent graduate of NJIT's Cybersecurity Professional Bootcamp with a profound interest in technology and a dedication to solving complex problems.
+I am currently a Help Desk Technician at an MSP with education from NJIT's Cybersecurity Professional Bootcamp. I have a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
 
-My passion for technology and problem solving has led me cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My passion for technology and problem solving has led me to expand my knowledge and expertise in the areas of networking and cybersecurity to expand my skills and make the transition out of help desk.
 
 ## Skills
 
